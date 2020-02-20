@@ -1,0 +1,24 @@
+
+.bigTextP{
+    font-size:2rem
+}
+.App{
+    display:flex;
+    flex-direction:column;
+    min-height:100%;
+}
+
+html,body{
+    height:100%;
+    overflow-x:hidden;
+}
+#root{
+    height: 100%;
+}
+.bodyWrapper{
+    flex:1 0 auto;
+}
+
+.h-90{
+    height:90%
+}

@@ -1,0 +1,9 @@
+.tryAgainComponent{
+    border-radius:10px;
+    background:rgba(201, 132, 132, 0.5);
+    font-size:1.5rem;
+    color:darkred;
+}
+.tryAgainComponent button{
+    font-size:1.5rem;    
+}

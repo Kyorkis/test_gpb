@@ -1,0 +1,20 @@
+.component li{
+    list-style-type:none;
+}
+.component ul{
+    padding-left:0;
+}
+.component{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    margin:2rem;
+}
+.component p{
+    min-height:30%;
+}
+
+@media(max-width:962px){
+    .component{
+        margin-left:0;
+        margin-right:0;
+    }
+}
